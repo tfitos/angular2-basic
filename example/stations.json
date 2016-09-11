@@ -1,0 +1,44 @@
+[
+  {
+    "relevance": 76.74633541739958,
+    "id": 9100518,
+    "name": "Alexanderstr.",
+    "weight": 5890,
+    "tokens": 3
+  },
+  {
+    "relevance": 38.5781244188137,
+    "id": 9100005,
+    "name": "U Alexanderplatz [Tram]",
+    "weight": 57620,
+    "tokens": 4
+  },
+  {
+    "relevance": 20.19436802675439,
+    "id": 9100712,
+    "name": "S+U Alexanderpl./Grunerstr.(Bln) [Alexanderstr.]",
+    "weight": 2900,
+    "tokens": 8
+  },
+  {
+    "relevance": 20.12461179749811,
+    "id": 9445060,
+    "name": "Forst, Alexanderstr.",
+    "weight": 405,
+    "tokens": 3
+  },
+  {
+    "relevance": 19.636746995614182,
+    "id": 9100026,
+    "name": "S+U Alexanderplatz/Gontardstr.",
+    "weight": 45720,
+    "tokens": 7
+  },
+  {
+    "relevance": 18.39065867582269,
+    "id": 9100003,
+    "name": "S+U Alexanderplatz",
+    "weight": 20460,
+    "tokens": 5
+  }
+]

@@ -9,6 +9,9 @@ import { AboutComponent } from './about/about.component';
 import { ApiService } from './shared';
 import { routing } from './app.routing';
 
+import { StationListComponent } from './shared/component/stationlist.component';
+
+
 import { removeNgStyles, createNewHosts } from '@angularclass/hmr';
 
 @NgModule({
@@ -21,7 +24,8 @@ import { removeNgStyles, createNewHosts } from '@angularclass/hmr';
   declarations: [
     AppComponent,
     HomeComponent,
-    AboutComponent
+    AboutComponent,
+    StationListComponent
   ],
   providers: [
     ApiService
